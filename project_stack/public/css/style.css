@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  color: white;
+  font: 24px "Monserrat", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.projectTile{
+  background-color: #23c;
+  max-width: 50%;
+  margin-left: 25%;
+  margin-bottom: 5px;
+  text-align: center;
+}
